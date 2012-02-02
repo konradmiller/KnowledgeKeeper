@@ -1,0 +1,8 @@
+icons_rc.py
+*.pyc
+*.sqlite3
+papers/
+comments/
+whoosh_index/
+KnowledgeKeeper/forms/
+dag.jpg

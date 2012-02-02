@@ -1,0 +1,32 @@
+~ fix "filter":
+   - tags, pdfs, notes, authors, title should be searchible via whoosh
+   - add possibility to manually re-index
+   - add possibility to modify index (note changed -> toss old index for note, add new one)
+
+~ remove treeview
+
+~ scale/move DAG
+
+~ search for documents that are cited by the selected document
+
+~ export/import for backup and database changes
+
+~ add possibility to limit the nodes in the DAG view
+
+~ ah change in the paper data should be a change in the database, not a re-add
+
+~ add multiple dois for one document
+
+~ use saved dois and don't research
+
+~ tagcloud
+
+~ cluster dag: conference, year, etc
+
+~ attach other files (slides, pix, links, etc)
+
+~ bibtex generation
+
+~ fingerprint papers and search a db for metadata
+
+~ use data in pdfs to fill out metadata
